@@ -1,16 +1,61 @@
-## Hi there 👋
+👋 Hi, I’m Azuan
 
-<!--
-**azuanalias92/azuanalias92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Engineer | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+I love building scalable apps with Next.js, NestJS, Prisma, PostgreSQL, MongoDB, and React Native.
+Currently exploring AI, cloud-native apps, and automation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🔭 Currently working on: Community Safety App
+
+🌱 Learning more about: AI integrations, DevOps & Cloudflare edge functions
+
+🎯 2025 Goal: Finish a 21km half marathon 🏃
+
+⚡ Fun fact: I can cook a mean ayam masak kunyit 🍛
+
+🛠️ Tech Stack
+
+Frontend:
+
+
+
+
+
+
+Backend & Databases:
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud & Tools:
+
+
+
+
+
+
+
+
+📊 GitHub Stats
+
+
+
+
+🌐 Connect With Me
+
+
+
+
+
+
+✨ “Code is like humor. When you have to explain it, it’s bad.”
