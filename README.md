@@ -1,39 +1,44 @@
 <div align="center">
 
-# 👋 Hi, I'm Azuan
+# Hi, I'm Azuan
 
-### 💻 Engineer | Problem Solver | Tech Enthusiast
+### Full-Stack Engineer building practical products across web, mobile, and cloud
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+AI+Enthusiast;Building+scalable+digital+products;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-azuanalias.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://azuanalias.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azuan_Alias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azuanalias)
+[![Email](https://img.shields.io/badge/Email-azuanalias92%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azuanalias92@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm passionate about building scalable applications and exploring cutting-edge technologies. I love creating solutions that make a real impact while continuously learning and growing in the tech space.
+I enjoy turning ideas into reliable products, from polished user interfaces to backend services and cloud infrastructure. My focus is on building software that is useful, scalable, and easy to maintain.
 
-- 🔭 **Currently working on:** Laluan Bas MY
-- 🌱 **Learning:** AI integrations, DevOps & Cloudflare edge functions
-- 🎯 **2025 Goal:** Finish a 21km half marathon 🏃‍♂️
-- ⚡ **Fun fact:** I can cook a mean ayam masak kunyit 🍛
-- 💬 **Ask me about:** Full-stack development, cloud architecture, or Malaysian cuisine!
+- Currently building `Komuniti Kita`
+- Exploring AI integrations, DevOps workflows, and Cloudflare edge tooling
+- Working across `Next.js`, `React Native`, `NestJS`, and cloud platforms
+- 2026 goal: keep shipping meaningful products and complete at least 3 half marathon
+- Ask me about full-stack development, cloud architecture, or Malaysian food
 
 ---
 
-## 🛠️ Tech Stack
+## What I Work With
 
 ### Frontend
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Databases
+### Backend And Data
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -42,31 +47,40 @@ I'm passionate about building scalable applications and exploring cutting-edge t
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & Tools
+### Cloud And Tools
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
+
+```text
+- Building products that solve real local problems
+- Improving developer experience and deployment workflows
+- Learning more about AI-assisted features and edge-first architecture
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![Azuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=azuanalias92&show_icons=true&theme=radical&hide_border=true)
-
+![Azuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=azuanalias92&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azuanalias92&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azuanalias92&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Let's Connect
 
 <div align="center">
 
@@ -82,10 +96,10 @@ I'm passionate about building scalable applications and exploring cutting-edge t
 
 <div align="center">
 
-### ✨ *"Code is like humor. When you have to explain it, it's bad."*
+> "Code is like humor. When you have to explain it, it's bad."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azuanalias92&color=blueviolet&style=flat-square)
 
-⭐ **Thanks for visiting my profile!** ⭐
+Thanks for stopping by.
 
 </div>
